@@ -39,6 +39,53 @@
 <h3 style="font-size: 22px;"><b><i>Conclusión</i></b></h3>
 <p>El desarrollo de un Theremin controlado a distancia representa una innovadora fusión entre la música y la tecnología. Este proyecto no solo aborda la interacción musical desde una nueva perspectiva, sino que también abre un abanico de posibilidades en aplicaciones educativas y artísticas. Al utilizar un microcontrolador y protocolos de comunicación, se logrará un dispositivo versátil y accesible, que permitirá a músicos y artistas explorar nuevas dimensiones en su trabajo.</p>
 <h3 style="font-size: 16px;"><b><i>Para construir un Theremin que permita al músico crear sonidos etéreos y expresivos sin tocar físicamente el instrumento, se pueden considerar los siguientes materiales y enfoques específicos:</i></b></h3>
+<h3 style="font-size: 22px;"><b><i>Materiales Necesarios</i></b></h3>
+<p><i>1. Componentes Electrónicos</p> </i>
+<b><i>Microcontrolador:</b></i>
+<p><i>ESP32: Ideal por su conectividad WiFi y Bluetooth, lo que permite el control remoto.</p> </i>
+<b><i>Sensores de Proximidad:</b></i>
+Sensores capacitivos: Para detectar la cercanía del músico sin contacto.
+Sensores infrarrojos: Alternativa para detectar movimiento.
+Módulo de Comunicación:
+ESP8266 o directamente utilizar el ESP32 (que ya lo incluye).
+Osciladores:
+Circuito oscilador (puedes usar transistores o circuitos integrados como el 555) para generar las ondas sonoras.
+Componentes Pasivos:
+Resistencias, capacitores y potenciómetros para el ajuste de frecuencias y tonos.
+
+2. Fuente de Alimentación
+Batería recargable o adaptador de corriente adecuado para los componentes.
+
+3. Estructura Física
+Carcasa:
+Madera o acrílico para una construcción atractiva y duradera.
+Base:
+Base estable que permita al Theremin ser usado de manera segura.
+4. Interfaz de Usuario
+Dispositivo de Control:
+Smartphone, tablet o computadora para una aplicación que controle el Theremin.
+
+5. Software y Herramientas
+IDE de Programación:
+Arduino IDE para programar el microcontrolador.
+Librerías:
+Librerías para manejar MQTT, WebSockets o cualquier otro protocolo para la comunicación.
+
+6. Cables y Conectores
+Cables:
+Cables de conexión (jumper cables) para unir todos los componentes.
+Conectores:
+Conectores para facilitar el ensamblaje y mantenimiento.
+
+7. Herramientas
+Herramientas de Montaje:
+Destornilladores, taladros, herramientas de corte.
+Soldador:
+Para las conexiones permanentes del circuito.
+Enfoque de Funcionamiento
+Detección de Proximidad: Los sensores detectan la proximidad del músico, modificando la frecuencia y el volumen del sonido generado.
+Interfaz de Control: La aplicación permite al músico ajustar parámetros en tiempo real, como el tono, el timbre y los efectos.
+Sonido Expresivo: Se pueden implementar efectos digitales como reverberación y eco para enriquecer el sonido etéreo.
 
 
 
