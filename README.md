@@ -40,7 +40,7 @@
 <p>El desarrollo de un Theremin controlado a distancia representa una innovadora fusión entre la música y la tecnología. Este proyecto no solo aborda la interacción musical desde una nueva perspectiva, sino que también abre un abanico de posibilidades en aplicaciones educativas y artísticas. Al utilizar un microcontrolador y protocolos de comunicación, se logrará un dispositivo versátil y accesible, que permitirá a músicos y artistas explorar nuevas dimensiones en su trabajo.</p>
 <h3 style="font-size: 16px;"><b><i>Para construir un Theremin que permita al músico crear sonidos etéreos y expresivos sin tocar físicamente el instrumento, se pueden considerar los siguientes materiales y enfoques específicos:</i></b></h3>
 <h3 style="font-size: 22px;"><b><i>Materiales Necesarios</i></b></h3>
-</b><p><i>1. Componentes Electrónicos</b></p></i>
+<p><b><i>1. Componentes Electrónicos</i></b></p>
 <p><i>Microcontrolador:</p> </i>
 <p><i>ESP32: Ideal por su conectividad WiFi y Bluetooth, lo que permite el control remoto.</p> </i>
 <p><i>Sensores de Proximidad:</p> </i>
