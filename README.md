@@ -41,17 +41,17 @@
 <h3 style="font-size: 16px;"><b><i>Para construir un Theremin que permita al músico crear sonidos etéreos y expresivos sin tocar físicamente el instrumento, se pueden considerar los siguientes materiales y enfoques específicos:</i></b></h3>
 <h3 style="font-size: 22px;"><b><i>Materiales Necesarios</i></b></h3>
 <p><i>1. Componentes Electrónicos</p> </i>
-Microcontrolador:
-ESP32: Ideal por su conectividad WiFi y Bluetooth, lo que permite el control remoto.
-Sensores de Proximidad:
-Sensores capacitivos: Para detectar la cercanía del músico sin contacto.
-Sensores infrarrojos: Alternativa para detectar movimiento.
-Módulo de Comunicación:
-ESP8266 o directamente utilizar el ESP32 (que ya lo incluye).
-Osciladores:
-Circuito oscilador (puedes usar transistores o circuitos integrados como el 555) para generar las ondas sonoras.
-Componentes Pasivos:
-Resistencias, capacitores y potenciómetros para el ajuste de frecuencias y tonos.
+<p><i>Microcontrolador:</p> </i>
+<p><i>ESP32: Ideal por su conectividad WiFi y Bluetooth, lo que permite el control remoto.</p> </i>
+<p><i>Sensores de Proximidad:</p> </i>
+<p><i>Sensores capacitivos: Para detectar la cercanía del músico sin contacto.</p> </i>
+<p><i>Sensores infrarrojos: Alternativa para detectar movimiento.</p> </i>
+<p><i>Módulo de Comunicación:</p> </i>
+<p><i>ESP8266 o directamente utilizar el ESP32 (que ya lo incluye).</p> </i>
+<p><i>Osciladores:</p> </i>
+<p><i>Circuito oscilador (puedes usar transistores o circuitos integrados como el 555) para generar las ondas sonoras.</p> </i>
+<p><i>Componentes Pasivos:</p> </i>
+<p><i>Resistencias, capacitores y potenciómetros para el ajuste de frecuencias y tonos.</p> </i>
 
 2. Fuente de Alimentación
 Batería recargable o adaptador de corriente adecuado para los componentes.
