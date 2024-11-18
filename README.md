@@ -28,4 +28,23 @@
 <p><i> 3.	Grabar y reproducir sesiones musicales. </p> </i>
 <p><i> 4.	El sensor de proximidad detecta los movimientos y envía señales al circuito electrónico. </p> </i>
 <p><i> 5.	El circuito procesa las señales y produce sonido a tráves del amplificador y altavoz. </p> </i>
+<h3 style="font-size: 22px;"><b><i> Innovaciones y Ventajas</i></b></h3>
+<p><i>1.	Control gestual preciso y expresivo.</p> </i>
+<p><i>2.	Posibilidad de crear sonidos únicos y personalizados.</p> </i>
+<p><i>3.	Accesibilidad para músicos con discapacidad motora.</p> </i>
+<h3 style="font-size: 22px;"><b><i>Aplicaciones</i></b></h3>
+<p><i>1.	Música en Vivo: Posibilidad de realizar presentaciones musicales interactivas.</p> </i>
+<p><i>2.	Educación: Herramienta didáctica para enseñar conceptos de música y tecnología.</p> </i>
+<p><i>3.	Instalaciones Artísticas: Integración en obras de arte que requieran interacción a distancia.</p> </i>
+<h3 style="font-size: 22px;"><b><i>Conclusión</i></b></h3>
+<p><i>El desarrollo de un Theremin controlado a distancia representa una innovadora fusión entre la música y la tecnología. Este proyecto no solo aborda la interacción musical desde una nueva perspectiva, sino que también abre un abanico de posibilidades en aplicaciones <p><i>educativas y artísticas. Al utilizar un microcontrolador y protocolos de comunicación, se logrará un dispositivo versátil y accesible, que permitirá a músicos y artistas explorar nuevas dimensiones en su trabajo.</p> </i>
+Para construir un Theremin que permita al músico crear sonidos etéreos y expresivos sin tocar físicamente el instrumento, se pueden considerar los siguientes materiales y enfoques específicos:
+
+
+
+
+
+
+
+
 
