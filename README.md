@@ -41,9 +41,9 @@
 <h3 style="font-size: 16px;"><b><i>Para construir un Theremin que permita al músico crear sonidos etéreos y expresivos sin tocar físicamente el instrumento, se pueden considerar los siguientes materiales y enfoques específicos:</i></b></h3>
 <h3 style="font-size: 22px;"><b><i>Materiales Necesarios</i></b></h3>
 <p><i>1. Componentes Electrónicos</p> </i>
-<b><i>Microcontrolador:</b></i>
-<p><i>ESP32: Ideal por su conectividad WiFi y Bluetooth, lo que permite el control remoto.</p> </i>
-<b><i>Sensores de Proximidad:</b></i>
+Microcontrolador:
+ESP32: Ideal por su conectividad WiFi y Bluetooth, lo que permite el control remoto.
+Sensores de Proximidad:
 Sensores capacitivos: Para detectar la cercanía del músico sin contacto.
 Sensores infrarrojos: Alternativa para detectar movimiento.
 Módulo de Comunicación:
