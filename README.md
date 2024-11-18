@@ -52,32 +52,29 @@
 <p><i>Circuito oscilador (puedes usar transistores o circuitos integrados como el 555) para generar las ondas sonoras.</p> </i>
 <p><i>Componentes Pasivos:</p> </i>
 <p><i>Resistencias, capacitores y potenciómetros para el ajuste de frecuencias y tonos.</p> </i>
+<p><b><i>2. Fuente de Alimentación</i></b></p>
+<p><i>Batería recargable o adaptador de corriente adecuado para los componentes.</p> </i>
+<p><b><i>3. Estructura Física</i></b></p>
+<p><i>Carcasa:</p> </i>
+<p><i>Madera o acrílico para una construcción atractiva y duradera.</p> </i>
+<p><i>Base:</p> </i>
+<p><i>Base estable que permita al Theremin ser usado de manera segura.</p> </i>
+<p><b><i>4. Interfaz de Usuario</i></b></p>
+<p><i>Dispositivo de Control:</p> </i>
+<p><i>Smartphone, tablet o computadora para una aplicación que controle el Theremin.</p> </i>
+<p><b><i>5. Software y Herramientas</i></b></p>
+<p><i>IDE de Programación:</p> </i>
+<p><i>Arduino IDE para programar el microcontrolador.</p> </i>
+<p><i>Librerías:</p> </i>
+<p><i>Librerías para manejar MQTT, WebSockets o cualquier otro protocolo para la comunicación.</p> </i>
 
-2. Fuente de Alimentación
-Batería recargable o adaptador de corriente adecuado para los componentes.
-
-3. Estructura Física
-Carcasa:
-Madera o acrílico para una construcción atractiva y duradera.
-Base:
-Base estable que permita al Theremin ser usado de manera segura.
-4. Interfaz de Usuario
-Dispositivo de Control:
-Smartphone, tablet o computadora para una aplicación que controle el Theremin.
-
-5. Software y Herramientas
-IDE de Programación:
-Arduino IDE para programar el microcontrolador.
-Librerías:
-Librerías para manejar MQTT, WebSockets o cualquier otro protocolo para la comunicación.
-
-6. Cables y Conectores
+<p><b><i>6. Cables y Conectores</i></b></p>
 Cables:
 Cables de conexión (jumper cables) para unir todos los componentes.
 Conectores:
 Conectores para facilitar el ensamblaje y mantenimiento.
 
-7. Herramientas
+<p><b><i>7. Herramientas</i></b></p>
 Herramientas de Montaje:
 Destornilladores, taladros, herramientas de corte.
 Soldador:
