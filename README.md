@@ -37,9 +37,7 @@
 <p><i>2.	Educación: Herramienta didáctica para enseñar conceptos de música y tecnología.</p> </i>
 <p><i>3.	Instalaciones Artísticas: Integración en obras de arte que requieran interacción a distancia.</p> </i>
 <h3 style="font-size: 22px;"><b><i>Conclusión</i></b></h3>
-<p><i>El desarrollo de un Theremin controlado a distancia representa una innovadora fusión entre la música y la tecnología. Este proyecto no solo aborda la interacción musical desde una nueva perspectiva, </p> </i>
-<p><i>sino que también abre un abanico de posibilidades en aplicaciones educativas y artísticas. Al utilizar un microcontrolador y protocolos de comunicación,</p> </i>
-<p><i>se logrará un dispositivo versátil y accesible, que permitirá a músicos y artistas explorar nuevas dimensiones en su trabajo.</p> </i>
+<p>El desarrollo de un Theremin controlado a distancia representa una innovadora fusión entre la música y la tecnología. Este proyecto no solo aborda la interacción musical desde una nueva perspectiva, sino que también abre un abanico de posibilidades en aplicaciones educativas y artísticas. Al utilizar un microcontrolador y protocolos de comunicación, se logrará un dispositivo versátil y accesible, que permitirá a músicos y artistas explorar nuevas dimensiones en su trabajo.</p>
 
 
 
