@@ -1,6 +1,6 @@
 <b><i> Profesor Internet de las cosas: Ignacio Andrés Pérez Vergara </i></b>
 <b><i> Integrantes:  EMERSON ZUÑIGA / MARILEN CUEVAS / FERNANDO HOELCK </i></b>
-<p style="font-size: 18px;"><b><i>INFORME INTERNET DE LAS COSAS </i></b></p>
+<h2 style="font-size: 28px;"><b><i>INFORME INTERNET DE LAS COSAS </i></b></h2>
 <b><i> TITULO: “THEREMIN: Un Instrumento Musical Electrónico Innovador” </i></b>
 <b><i> Instroducción:</i></b>
 <p><i> Bienvenidos a nuestro proyecto de Theremin, un instrumento musical electrónico que combina tecnología y arte.  El theremín es un instrumento único que permite al músico crear sonidos etéreos y expresivos sin tocar físicamente el instrumento.</p> </i>
