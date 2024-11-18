@@ -21,11 +21,11 @@
 <p><i> 1.	Estructura Física: Se diseñará una carcasa que albergue los componentes electrónicos y sensores, permitiendo una fácil manipulación.
 <p><i> 2.	Circuito Electrónico: Se diseñará un circuito que incluya el microcontrolador, sensores y módulos de comunicación (WiFi/Bluetooth).
 <p><i> 3.	Software: Se desarrollará un firmware que gestione la comunicación entre el Theremin y la interfaz de usuario, así como el procesamiento de la señal musical.
-<h3 style="font-size: 22px;"><b><i> Funcionamiento </i></b>
+<h3 style="font-size: 22px;"><b><i> Funcionamiento </i></b></h3>
 <p><i> El Theremin funcionará mediante la detección de la proximidad del usuario a los sensores, que alterarán la frecuencia y el volumen del sonido producido, los usuarios podrán: </p> </i>
-<p><i> 1.	Ajustar parámetros del Theremin. </i></b></h3>
-<p><i> 2.	Monitorear la actividad y recibir feedback en tiempo real. </i></b>
-<p><i> 3.	Grabar y reproducir sesiones musicales. </i></b>
-<p><i> 4.	El sensor de proximidad detecta los movimientos y envía señales al circuito electrónico. </i></b>
-<p><i> 5.	El circuito procesa las señales y produce sonido a tráves del amplificador y altavoz. </i></b>
+<p><i> 1.	Ajustar parámetros del Theremin. </p> </i>
+<p><i> 2.	Monitorear la actividad y recibir feedback en tiempo real. </p> </i>
+<p><i> 3.	Grabar y reproducir sesiones musicales. </p> </i>
+<p><i> 4.	El sensor de proximidad detecta los movimientos y envía señales al circuito electrónico. </p> </i>
+<p><i> 5.	El circuito procesa las señales y produce sonido a tráves del amplificador y altavoz. </p> </i>
 
