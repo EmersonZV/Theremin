@@ -1,4 +1,4 @@
-<b><i> Profesor Internet de las cosas: Ignacio Andrés Pérez Vergara </i></b>
+<strong><b><i> Profesor Internet de las cosas </strong>: Ignacio Andrés Pérez Vergara </i></b></p>
 <b><i> Integrantes:  EMERSON ZUÑIGA / MARILEN CUEVAS / FERNANDO HOELCK </i></b>
 <h2 style="font-size: 28px;"><b><i>INFORME INTERNET DE LAS COSAS </i></b></h2>
 <b><i> TITULO: “THEREMIN: Un Instrumento Musical Electrónico Innovador” </i></b>
