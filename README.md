@@ -67,22 +67,20 @@
 <p><i>Arduino IDE para programar el microcontrolador.</p> </i>
 <p><i>Librerías:</p> </i>
 <p><i>Librerías para manejar MQTT, WebSockets o cualquier otro protocolo para la comunicación.</p> </i>
-
 <p><b><i>6. Cables y Conectores</i></b></p>
-Cables:
-Cables de conexión (jumper cables) para unir todos los componentes.
-Conectores:
-Conectores para facilitar el ensamblaje y mantenimiento.
-
+<p><i>Cables:</p> </i>
+<p><i>Cables de conexión (jumper cables) para unir todos los componentes.</p> </i>
+<p><i>Conectores:</p> </i>
+<p><i>Conectores para facilitar el ensamblaje y mantenimiento.</p> </i>
 <p><b><i>7. Herramientas</i></b></p>
-Herramientas de Montaje:
-Destornilladores, taladros, herramientas de corte.
-Soldador:
-Para las conexiones permanentes del circuito.
-Enfoque de Funcionamiento
-Detección de Proximidad: Los sensores detectan la proximidad del músico, modificando la frecuencia y el volumen del sonido generado.
-Interfaz de Control: La aplicación permite al músico ajustar parámetros en tiempo real, como el tono, el timbre y los efectos.
-Sonido Expresivo: Se pueden implementar efectos digitales como reverberación y eco para enriquecer el sonido etéreo.
+<p><i>Herramientas de Montaje:</p> </i>
+<p><i>Destornilladores, taladros, herramientas de corte.</p> </i>
+<p><i>Soldador:</p> </i>
+<p><i>Para las conexiones permanentes del circuito.</p> </i>
+<p><i>Enfoque de Funcionamiento</p> </i>
+<p><i>Detección de Proximidad: Los sensores detectan la proximidad del músico, modificando la frecuencia y el volumen del sonido generado.</p> </i>
+<p><i>Interfaz de Control: La aplicación permite al músico ajustar parámetros en tiempo real, como el tono, el timbre y los efectos.</p> </i>
+<p><i>Sonido Expresivo: Se pueden implementar efectos digitales como reverberación y eco para enriquecer el sonido etéreo.</p> </i>
 
 
 
